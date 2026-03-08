@@ -1,5 +1,3 @@
----
-
 FastAPI Notes (Beginner → Current Progress)
 
 1. What is an API
