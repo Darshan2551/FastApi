@@ -1,6 +1,3 @@
-;; Good idea, Darshan. Keeping clean notes is exactly what good engineers do. Below are structured notes from Step 1 → Step 6 based on what you have learned so far.
-;; You can save this as FastAPI_Notes.md or FastAPI_Notes.txt.
-
 ---
 
 FastAPI Notes (Beginner → Current Progress)
